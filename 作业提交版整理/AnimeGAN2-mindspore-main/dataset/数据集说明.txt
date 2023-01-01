@@ -1,0 +1,7 @@
+由于模型训练和验证的数据过大，将这里的数据集清空了
+
+output文件夹中还保存了我们使用模型将真实图片转换为动漫图片的结果
+
+其余训练数据可以在张钰迎同学的github上查看：
+https://github.com/Zyyxsth/AnimeGAN2-mindspore
+网站中有完整的数据集和模型
